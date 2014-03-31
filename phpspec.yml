@@ -1,0 +1,5 @@
+suites:
+    acme_suite:
+        spec_prefix: spec
+        spec_path: app
+        src_path: app
